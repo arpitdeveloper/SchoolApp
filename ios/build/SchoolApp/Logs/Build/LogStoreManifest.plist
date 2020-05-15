@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>20C6898B-6F95-4A99-8956-98968A05D64D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20C6898B-6F95-4A99-8956-98968A05D64D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SchoolApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SchoolApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace SchoolApp with scheme SchoolApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>609310530.97710705</real>
+			<key>timeStoppedRecording</key>
+			<real>609310533.15108395</real>
+			<key>title</key>
+			<string>Building workspace SchoolApp with scheme SchoolApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>20C6898B-6F95-4A99-8956-98968A05D64D</string>
+		</dict>
+		<key>23721A45-1C48-4787-8854-DC0ACCAA4550</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>23721A45-1C48-4787-8854-DC0ACCAA4550.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SchoolApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SchoolApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace SchoolApp with scheme SchoolApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>609137927.48201096</real>
+			<key>timeStoppedRecording</key>
+			<real>609137939.54481494</real>
+			<key>title</key>
+			<string>Building workspace SchoolApp with scheme SchoolApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>23721A45-1C48-4787-8854-DC0ACCAA4550</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

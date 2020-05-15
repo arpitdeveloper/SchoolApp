@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/SchoolApp/AppDelegate.m \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/SchoolApp/AppDelegate.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/FirebaseCore/FIROptions.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/FirebaseCore/FIRApp.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/SchoolApp/ios/Pods/Firebase/CoreOnly/Sources/Firebase.h

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>100334007562-f1sbjav82g4fcevr41h9vre278r8rgtp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.100334007562-f1sbjav82g4fcevr41h9vre278r8rgtp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_aHrSymKUAAWVPKsd36g7KdswOyNpE7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>100334007562</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SchoolApp</string>
+	<key>PROJECT_ID</key>
+	<string>schoolapp-88d39</string>
+	<key>STORAGE_BUCKET</key>
+	<string>schoolapp-88d39.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:100334007562:ios:483f6bf46795799ba636f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://schoolapp-88d39.firebaseio.com</string>
+</dict>
+</plist>
